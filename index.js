@@ -12,5 +12,5 @@ function happyHolidayTo(Christmas, Brunhilda) {
 }
 
 function holidayCountdown(twelve, Christmas) {
-  return (`It's ${12} days until ${Christmas}!`)
+  return (`It's ${twelve} days until ${Christmas}!`)
 }
